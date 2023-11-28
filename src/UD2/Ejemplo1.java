@@ -7,6 +7,7 @@ public class Ejemplo1 {
 			System.out.println(i +" ");
 		}j
 		System.out.println("hasta otra");
+		1
 	}
 
 }
